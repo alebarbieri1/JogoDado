@@ -14,6 +14,7 @@ public class Principal {
         Jogo meujogo = new Jogo();
         meujogo.jogar();
         meujogo.apresentarResultado();
+        System.out.println("Teste");
     }
     
     
